@@ -1,4 +1,4 @@
-# OlympiadP
+# OlympiadP [2016-2017]
 The site by which teachers can create olympiads and students are able to pass them.
 Available at http://z70728st.beget.tech 
 [login: mamyrov.abylai, password: 4588hkE]
